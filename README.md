@@ -37,8 +37,8 @@ malgré des références incohérentes entre les systèmes.
 
 ## Livrables
 
-- 📓 Notebook Python : `[à ajouter]`
-- 📄 Rapport d'analyse : `[à ajouter]`
+- 📓 [Notebook Python](https://github.com/Bassecou/P6-nettoyage-donnees-stock/blob/main/Toure_Bassecou_1_notebook_02_2026.ipynb)
+- 📊 [Présentation](https://github.com/Bassecou/P6-nettoyage-donnees-stock/blob/main/Toure_Bassecou_2_presentation_02_2026.pptx)
 
 ## Auteur
 
